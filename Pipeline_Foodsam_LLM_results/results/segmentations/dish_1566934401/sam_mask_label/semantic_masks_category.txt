@@ -1,0 +1,51 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.1790
+1,67,pie,0.96,0.0380
+2,0,background,1.00,0.4438
+3,0,background,1.00,0.1790
+4,54,fish,0.83,0.0629
+5,54,fish,0.98,0.0322
+6,0,background,1.00,0.0028
+7,0,background,1.00,0.0020
+8,67,pie,1.00,0.0013
+9,67,pie,1.00,0.0014
+10,103,other ingredients,1.00,0.0093
+11,103,other ingredients,0.88,0.0056
+12,103,other ingredients,0.91,0.0074
+13,103,other ingredients,0.94,0.0119
+14,103,other ingredients,1.00,0.0019
+15,54,fish,0.69,0.0264
+16,0,background,1.00,0.0007
+17,0,background,1.00,0.0009
+18,103,other ingredients,1.00,0.0139
+19,0,background,1.00,0.0017
+20,103,other ingredients,0.87,0.0064
+21,89,cilantro mint,0.70,0.0036
+22,103,other ingredients,0.89,0.0021
+23,9,cheese butter,0.35,0.0025
+24,0,background,1.00,0.0050
+25,67,pie,1.00,0.0016
+26,67,pie,1.00,0.0006
+27,103,other ingredients,0.72,0.0069
+28,103,other ingredients,1.00,0.0018
+29,67,pie,0.99,0.0120
+30,52,sauce,0.55,0.0080
+31,67,pie,1.00,0.0013
+32,67,pie,0.45,0.0017
+33,0,background,1.00,0.0022
+34,0,background,0.58,0.0002
+35,54,fish,1.00,0.0014
+36,0,background,1.00,0.0054
+37,103,other ingredients,0.63,0.0016
+38,103,other ingredients,0.94,0.0048
+39,103,other ingredients,0.86,0.0119
+40,67,pie,0.44,0.0015
+41,67,pie,1.00,0.0014
+42,103,other ingredients,1.00,0.0013
+43,103,other ingredients,0.55,0.0009
+44,0,background,1.00,0.0044
+45,67,pie,1.00,0.0005
+46,103,other ingredients,0.93,0.0034
+47,89,cilantro mint,0.47,0.0008
+48,103,other ingredients,1.00,0.0237
+49,89,cilantro mint,0.42,0.0028

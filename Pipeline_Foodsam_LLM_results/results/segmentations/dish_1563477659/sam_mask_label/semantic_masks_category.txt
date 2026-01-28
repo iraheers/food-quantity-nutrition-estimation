@@ -1,0 +1,39 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.5648
+1,0,background,1.00,0.1761
+2,0,background,1.00,0.1829
+3,0,background,1.00,0.0076
+4,0,background,1.00,0.0011
+5,0,background,1.00,0.0065
+6,0,background,1.00,0.0026
+7,77,rape,0.52,0.0051
+8,20,dried cranberries,0.78,0.0034
+9,20,dried cranberries,0.58,0.0040
+10,0,background,1.00,0.0007
+11,77,rape,0.52,0.0051
+12,20,dried cranberries,0.39,0.0522
+13,0,background,1.00,0.0022
+14,20,dried cranberries,0.60,0.0020
+15,103,other ingredients,0.40,0.0046
+16,103,other ingredients,0.57,0.0037
+17,20,dried cranberries,0.99,0.0029
+18,0,background,1.00,0.0009
+19,0,background,0.45,0.0031
+20,20,dried cranberries,0.75,0.0070
+21,0,background,1.00,0.0533
+22,0,background,1.00,0.0008
+23,0,background,1.00,0.0051
+24,20,dried cranberries,0.95,0.0032
+25,91,cabbage,0.49,0.0032
+26,0,background,1.00,0.0109
+27,91,cabbage,0.57,0.0079
+28,91,cabbage,0.35,0.0048
+29,0,background,1.00,0.0008
+30,0,background,1.00,0.0049
+31,77,rape,0.75,0.0014
+32,0,background,1.00,0.0015
+33,0,background,1.00,0.0010
+34,0,background,1.00,0.0481
+35,103,other ingredients,0.51,0.0042
+36,91,cabbage,0.43,0.0116
+37,103,other ingredients,0.46,0.0086

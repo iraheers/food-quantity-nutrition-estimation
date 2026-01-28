@@ -1,0 +1,17 @@
+[2025-07-11 21:38:56,510] [semantic.py:269] [INFO] running sam!
+[2025-07-11 21:39:03,709] [semantic.py:287] [INFO] Processing 'assets/apple.jpg'...
+[2025-07-11 21:41:24,426] [semantic.py:300] [INFO] sam done!
+
+[2025-07-11 21:41:24,426] [semantic.py:303] [INFO] running semantic seg model!
+[2025-07-11 21:42:31,088] [semantic.py:305] [INFO] semantic predict done!
+
+[2025-07-11 21:42:31,088] [semantic.py:308] [INFO] enhance semantic masks
+[2025-07-11 21:42:32,060] [enhance_semantic_masks.py:28] [INFO] results/semantic/apple/sam_mask/0 assign label: [ 25, apple, 1.00, 0.4960 ]
+[2025-07-11 21:42:32,970] [enhance_semantic_masks.py:28] [INFO] results/semantic/apple/sam_mask/1 assign label: [ 0, background, 0.98, 0.4878 ]
+[2025-07-11 21:42:32,980] [enhance_semantic_masks.py:28] [INFO] results/semantic/apple/sam_mask/2 assign label: [ 25, apple, 1.00, 0.0068 ]
+[2025-07-11 21:42:32,982] [enhance_semantic_masks.py:28] [INFO] results/semantic/apple/sam_mask/3 assign label: [ 25, apple, 1.00, 0.0006 ]
+[2025-07-11 21:42:32,983] [enhance_semantic_masks.py:28] [INFO] results/semantic/apple/sam_mask/4 assign label: [ 25, apple, 1.00, 0.0001 ]
+[2025-07-11 21:42:33,394] [semantic.py:310] [INFO] enhance semantic masks done!
+
+[2025-07-11 21:42:33,394] [semantic.py:317] [INFO] The results saved in results/semantic!
+

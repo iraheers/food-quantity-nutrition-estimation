@@ -1,0 +1,110 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.0967
+1,0,background,0.99,0.2608
+2,0,background,0.98,0.0416
+3,0,background,1.00,0.0353
+4,0,background,1.00,0.0973
+5,103,other ingredients,0.85,0.0129
+6,80,lettuce,0.57,0.0085
+7,47,pork,1.00,0.0098
+8,80,lettuce,0.51,0.0046
+9,89,cilantro mint,1.00,0.0065
+10,80,lettuce,0.79,0.0022
+11,0,background,1.00,0.0009
+12,89,cilantro mint,0.95,0.0012
+13,0,background,1.00,0.0348
+14,0,background,1.00,0.0348
+15,80,lettuce,1.00,0.0033
+16,82,cucumber,0.94,0.0030
+17,0,background,1.00,0.0010
+18,89,cilantro mint,1.00,0.0133
+19,89,cilantro mint,0.82,0.0008
+20,0,background,1.00,0.0013
+21,89,cilantro mint,1.00,0.0075
+22,80,lettuce,1.00,0.0103
+23,89,cilantro mint,0.68,0.0074
+24,80,lettuce,1.00,0.0008
+25,0,background,1.00,0.0017
+26,89,cilantro mint,0.97,0.0018
+27,47,pork,0.72,0.0021
+28,103,other ingredients,0.41,0.0085
+29,80,lettuce,0.99,0.0066
+30,77,rape,0.56,0.0007
+31,89,cilantro mint,0.99,0.0095
+32,77,rape,0.74,0.0022
+33,82,cucumber,0.94,0.0058
+34,80,lettuce,0.92,0.0073
+35,80,lettuce,1.00,0.0015
+36,0,background,1.00,0.0008
+37,80,lettuce,0.64,0.0020
+38,89,cilantro mint,0.97,0.0024
+39,89,cilantro mint,0.77,0.0014
+40,47,pork,1.00,0.0116
+41,47,pork,1.00,0.0047
+42,0,background,1.00,0.0147
+43,47,pork,0.53,0.0014
+44,0,background,0.96,0.0012
+45,89,cilantro mint,1.00,0.0085
+46,89,cilantro mint,1.00,0.0020
+47,47,pork,0.59,0.0005
+48,80,lettuce,1.00,0.0170
+49,80,lettuce,0.47,0.0046
+50,47,pork,1.00,0.0099
+51,80,lettuce,1.00,0.0140
+52,89,cilantro mint,0.94,0.0012
+53,89,cilantro mint,1.00,0.0012
+54,0,background,1.00,0.0023
+55,0,background,1.00,0.0031
+56,47,pork,1.00,0.0050
+57,89,cilantro mint,1.00,0.0016
+58,0,background,0.56,0.0009
+59,0,background,0.75,0.0014
+60,80,lettuce,0.98,0.0020
+61,0,background,1.00,0.0019
+62,77,rape,0.71,0.0064
+63,0,background,1.00,0.0005
+64,89,cilantro mint,0.99,0.0046
+65,89,cilantro mint,1.00,0.0012
+66,89,cilantro mint,0.48,0.0012
+67,89,cilantro mint,1.00,0.0007
+68,89,cilantro mint,1.00,0.0006
+69,89,cilantro mint,0.98,0.0058
+70,77,rape,0.97,0.0018
+71,47,pork,1.00,0.0006
+72,0,background,1.00,0.0055
+73,80,lettuce,0.84,0.0146
+74,0,background,1.00,0.0482
+75,0,background,0.61,0.0018
+76,89,cilantro mint,0.95,0.0054
+77,89,cilantro mint,1.00,0.0018
+78,0,background,1.00,0.0002
+79,89,cilantro mint,0.88,0.0108
+80,89,cilantro mint,1.00,0.0015
+81,47,pork,0.95,0.0055
+82,89,cilantro mint,0.46,0.0015
+83,0,background,1.00,0.0003
+84,80,lettuce,0.74,0.0008
+85,47,pork,0.86,0.0022
+86,89,cilantro mint,0.65,0.0003
+87,82,cucumber,0.93,0.0089
+88,77,rape,0.56,0.0016
+89,47,pork,0.96,0.0029
+90,77,rape,0.95,0.0022
+91,0,background,0.98,0.0048
+92,89,cilantro mint,0.64,0.0023
+93,80,lettuce,0.78,0.0241
+94,89,cilantro mint,0.68,0.0012
+95,47,pork,1.00,0.0006
+96,89,cilantro mint,0.96,0.0073
+97,89,cilantro mint,0.96,0.0074
+98,47,pork,0.57,0.0019
+99,89,cilantro mint,0.82,0.0036
+100,82,cucumber,0.95,0.0087
+101,89,cilantro mint,1.00,0.0085
+102,47,pork,0.93,0.0004
+103,89,cilantro mint,1.00,0.0012
+104,89,cilantro mint,1.00,0.0011
+105,0,background,0.66,0.0017
+106,89,cilantro mint,0.85,0.0024
+107,89,cilantro mint,1.00,0.0005
+108,89,cilantro mint,0.92,0.0005

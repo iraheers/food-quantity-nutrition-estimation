@@ -1,0 +1,36 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,47,pork,1.00,0.1117
+1,0,background,1.00,0.1756
+2,0,background,1.00,0.1761
+3,0,background,1.00,0.4428
+4,0,background,0.90,0.0028
+5,0,background,1.00,0.0073
+6,0,background,1.00,0.0029
+7,0,background,1.00,0.0008
+8,47,pork,1.00,0.0102
+9,0,background,1.00,0.0042
+10,0,background,0.74,0.0017
+11,47,pork,1.00,0.1119
+12,89,cilantro mint,0.97,0.0010
+13,89,cilantro mint,1.00,0.0032
+14,89,cilantro mint,0.51,0.0014
+15,0,background,1.00,0.0022
+16,47,pork,0.99,0.0004
+17,0,background,1.00,0.0048
+18,0,background,0.77,0.0042
+19,89,cilantro mint,0.92,0.0020
+20,89,cilantro mint,0.93,0.0550
+21,0,background,1.00,0.0065
+22,0,background,0.55,0.0005
+23,89,cilantro mint,0.97,0.0045
+24,0,background,1.00,0.0012
+25,0,background,1.00,0.0027
+26,0,background,1.00,0.0069
+27,89,cilantro mint,0.65,0.0013
+28,0,background,1.00,0.0009
+29,89,cilantro mint,0.94,0.0012
+30,89,cilantro mint,0.98,0.0129
+31,47,pork,1.00,0.0134
+32,0,background,1.00,0.0010
+33,0,background,1.00,0.0004
+34,0,background,1.00,0.0114

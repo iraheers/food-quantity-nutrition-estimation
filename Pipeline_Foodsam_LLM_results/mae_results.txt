@@ -1,0 +1,5 @@
+calories: 135.490
+mass: 106.528
+fat: 7.703
+carb: 9.478
+protein: 12.518

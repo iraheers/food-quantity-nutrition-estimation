@@ -1,0 +1,79 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.1721
+1,0,background,1.00,0.2725
+2,45,watermelon,1.00,0.0063
+3,45,watermelon,0.51,0.0040
+4,45,watermelon,0.90,0.0081
+5,9,cheese butter,0.97,0.0048
+6,84,carrot,0.98,0.0076
+7,45,watermelon,1.00,0.0054
+8,103,other ingredients,0.91,0.0038
+9,45,watermelon,1.00,0.0028
+10,9,cheese butter,0.85,0.0114
+11,0,background,0.41,0.0036
+12,103,other ingredients,0.74,0.0073
+13,45,watermelon,0.97,0.0100
+14,103,other ingredients,0.86,0.0051
+15,45,watermelon,0.85,0.0137
+16,0,background,1.00,0.0009
+17,45,watermelon,1.00,0.0061
+18,9,cheese butter,0.85,0.0068
+19,9,cheese butter,0.96,0.0019
+20,9,cheese butter,1.00,0.0043
+21,0,background,1.00,0.0094
+22,103,other ingredients,0.45,0.0035
+23,70,potato,0.61,0.0016
+24,0,background,1.00,0.0124
+25,103,other ingredients,0.92,0.0089
+26,84,carrot,0.92,0.0122
+27,45,watermelon,0.91,0.0088
+28,0,background,1.00,0.0014
+29,0,background,1.00,0.0049
+30,0,background,1.00,0.0007
+31,45,watermelon,0.51,0.0037
+32,9,cheese butter,0.77,0.0041
+33,0,background,1.00,0.0005
+34,103,other ingredients,0.78,0.0041
+35,45,watermelon,0.94,0.0146
+36,103,other ingredients,1.00,0.0004
+37,9,cheese butter,0.98,0.0027
+38,52,sauce,0.93,0.0361
+39,84,carrot,0.80,0.0047
+40,103,other ingredients,0.48,0.0014
+41,9,cheese butter,0.56,0.0041
+42,84,carrot,0.87,0.0054
+43,0,background,1.00,0.0017
+44,52,sauce,1.00,0.0014
+45,0,background,1.00,0.0011
+46,52,sauce,1.00,0.0763
+47,84,carrot,0.81,0.0012
+48,45,watermelon,1.00,0.0088
+49,84,carrot,0.58,0.0016
+50,84,carrot,0.89,0.0039
+51,52,sauce,1.00,0.0300
+52,52,sauce,1.00,0.0420
+53,9,cheese butter,0.55,0.0370
+54,0,background,1.00,0.0132
+55,0,background,1.00,0.0028
+56,0,background,1.00,0.0058
+57,0,background,1.00,0.0022
+58,103,other ingredients,0.90,0.0142
+59,103,other ingredients,1.00,0.0014
+60,70,potato,0.52,0.0008
+61,45,watermelon,0.98,0.0117
+62,52,sauce,0.90,0.0199
+63,84,carrot,0.96,0.0004
+64,0,background,1.00,0.0260
+65,45,watermelon,1.00,0.0235
+66,45,watermelon,1.00,0.0023
+67,9,cheese butter,0.76,0.0133
+68,9,cheese butter,0.76,0.0133
+69,84,carrot,0.50,0.0130
+70,0,background,1.00,0.0033
+71,9,cheese butter,0.74,0.0167
+72,103,other ingredients,0.95,0.0032
+73,9,cheese butter,0.70,0.0082
+74,52,sauce,1.00,0.0047
+75,9,cheese butter,0.70,0.0082
+76,0,background,1.00,0.1718
+77,103,other ingredients,0.90,0.0141

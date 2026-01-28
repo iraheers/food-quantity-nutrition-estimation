@@ -1,0 +1,99 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,89,cilantro mint,1.00,0.3498
+1,0,background,1.00,0.1783
+2,0,background,1.00,0.0305
+3,89,cilantro mint,1.00,0.0064
+4,89,cilantro mint,1.00,0.0176
+5,89,cilantro mint,1.00,0.0042
+6,89,cilantro mint,1.00,0.0102
+7,0,background,1.00,0.1793
+8,0,background,1.00,0.0142
+9,89,cilantro mint,1.00,0.0180
+10,0,background,1.00,0.1801
+11,89,cilantro mint,1.00,0.0169
+12,0,background,1.00,0.0339
+13,89,cilantro mint,1.00,0.0103
+14,89,cilantro mint,1.00,0.0089
+15,89,cilantro mint,1.00,0.0027
+16,89,cilantro mint,1.00,0.0031
+17,89,cilantro mint,1.00,0.0088
+18,0,background,1.00,0.0628
+19,89,cilantro mint,1.00,0.0080
+20,0,background,1.00,0.0007
+21,89,cilantro mint,1.00,0.0018
+22,89,cilantro mint,1.00,0.0137
+23,89,cilantro mint,1.00,0.0043
+24,0,background,1.00,0.0014
+25,89,cilantro mint,1.00,0.0026
+26,89,cilantro mint,1.00,0.0064
+27,0,background,1.00,0.0036
+28,0,background,1.00,0.0065
+29,89,cilantro mint,1.00,0.0038
+30,89,cilantro mint,1.00,0.0011
+31,89,cilantro mint,1.00,0.0059
+32,89,cilantro mint,1.00,0.0074
+33,0,background,1.00,0.0063
+34,89,cilantro mint,1.00,0.0068
+35,89,cilantro mint,1.00,0.0173
+36,89,cilantro mint,1.00,0.0011
+37,89,cilantro mint,1.00,0.0118
+38,89,cilantro mint,1.00,0.0005
+39,89,cilantro mint,1.00,0.0182
+40,89,cilantro mint,1.00,0.0063
+41,0,background,1.00,0.0022
+42,0,background,1.00,0.0018
+43,89,cilantro mint,1.00,0.0280
+44,89,cilantro mint,1.00,0.0026
+45,0,background,1.00,0.0117
+46,89,cilantro mint,1.00,0.0010
+47,89,cilantro mint,1.00,0.0011
+48,89,cilantro mint,1.00,0.0086
+49,89,cilantro mint,1.00,0.0010
+50,89,cilantro mint,1.00,0.0020
+51,89,cilantro mint,1.00,0.0027
+52,89,cilantro mint,1.00,0.0031
+53,89,cilantro mint,1.00,0.0062
+54,89,cilantro mint,1.00,0.0104
+55,0,background,0.75,0.0009
+56,0,background,1.00,0.0018
+57,89,cilantro mint,1.00,0.0015
+58,89,cilantro mint,1.00,0.0021
+59,0,background,1.00,0.0208
+60,89,cilantro mint,1.00,0.0111
+61,0,background,0.94,0.0012
+62,89,cilantro mint,1.00,0.0020
+63,89,cilantro mint,1.00,0.0022
+64,0,background,1.00,0.0053
+65,89,cilantro mint,1.00,0.0006
+66,89,cilantro mint,1.00,0.0106
+67,0,background,0.99,0.0037
+68,89,cilantro mint,1.00,0.0025
+69,89,cilantro mint,1.00,0.0003
+70,89,cilantro mint,1.00,0.0042
+71,89,cilantro mint,1.00,0.0024
+72,89,cilantro mint,1.00,0.0027
+73,89,cilantro mint,1.00,0.0011
+74,0,background,1.00,0.0012
+75,89,cilantro mint,1.00,0.0011
+76,89,cilantro mint,1.00,0.0004
+77,89,cilantro mint,1.00,0.0088
+78,89,cilantro mint,1.00,0.0035
+79,89,cilantro mint,1.00,0.0088
+80,89,cilantro mint,1.00,0.0180
+81,89,cilantro mint,1.00,0.0024
+82,89,cilantro mint,1.00,0.0004
+83,89,cilantro mint,1.00,0.0008
+84,89,cilantro mint,1.00,0.0032
+85,89,cilantro mint,1.00,0.0034
+86,89,cilantro mint,1.00,0.0007
+87,89,cilantro mint,1.00,0.0002
+88,89,cilantro mint,1.00,0.0031
+89,89,cilantro mint,1.00,0.0005
+90,89,cilantro mint,1.00,0.0170
+91,0,background,1.00,0.0037
+92,89,cilantro mint,1.00,0.0029
+93,0,background,1.00,0.0145
+94,89,cilantro mint,1.00,0.0033
+95,89,cilantro mint,1.00,0.0022
+96,89,cilantro mint,1.00,0.0008
+97,89,cilantro mint,1.00,0.0055

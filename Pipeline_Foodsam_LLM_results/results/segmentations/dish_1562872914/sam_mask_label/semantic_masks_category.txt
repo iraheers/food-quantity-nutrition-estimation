@@ -1,0 +1,61 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.2818
+1,0,background,1.00,0.1065
+2,0,background,1.00,0.1215
+3,31,cherry,0.79,0.0067
+4,0,background,1.00,0.0011
+5,0,background,1.00,0.0269
+6,0,background,1.00,0.0476
+7,0,background,1.00,0.1078
+8,48,chicken duck,0.91,0.0107
+9,0,background,1.00,0.1681
+10,0,background,1.00,0.0291
+11,48,chicken duck,0.68,0.0490
+12,0,background,1.00,0.0096
+13,0,background,1.00,0.0053
+14,0,background,1.00,0.0022
+15,41,grape,0.86,0.0023
+16,41,grape,0.62,0.0031
+17,0,background,1.00,0.0004
+18,0,background,1.00,0.0043
+19,0,background,1.00,0.0009
+20,48,chicken duck,0.99,0.0031
+21,48,chicken duck,0.64,0.0746
+22,41,grape,0.76,0.0026
+23,0,background,0.78,0.0035
+24,0,background,1.00,0.0559
+25,0,background,1.00,0.0584
+26,41,grape,0.47,0.0040
+27,0,background,1.00,0.0484
+28,0,background,1.00,0.0006
+29,41,grape,0.53,0.0031
+30,0,background,1.00,0.1672
+31,0,background,1.00,0.1670
+32,0,background,1.00,0.0047
+33,31,cherry,0.69,0.0009
+34,0,background,1.00,0.0022
+35,48,chicken duck,0.74,0.0145
+36,0,background,1.00,0.0049
+37,0,background,1.00,0.0008
+38,0,background,1.00,0.0019
+39,9,cheese butter,0.65,0.0018
+40,0,background,1.00,0.0007
+41,48,chicken duck,0.90,0.0012
+42,48,chicken duck,0.86,0.0005
+43,0,background,1.00,0.0016
+44,0,background,1.00,0.0111
+45,0,background,0.58,0.0013
+46,41,grape,0.60,0.0013
+47,41,grape,0.64,0.0017
+48,0,background,1.00,0.0007
+49,48,chicken duck,0.67,0.0497
+50,48,chicken duck,0.74,0.0144
+51,0,background,1.00,0.0024
+52,48,chicken duck,1.00,0.0018
+53,9,cheese butter,0.77,0.0010
+54,0,background,1.00,0.0004
+55,0,background,1.00,0.0016
+56,41,grape,0.77,0.0063
+57,0,background,1.00,0.0011
+58,0,background,1.00,0.0004
+59,48,chicken duck,0.35,0.0101

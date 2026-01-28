@@ -1,0 +1,70 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,103,other ingredients,0.81,0.0781
+1,0,background,1.00,0.1751
+2,67,pie,1.00,0.0529
+3,67,pie,1.00,0.1105
+4,0,background,1.00,0.1760
+5,0,background,0.99,0.1878
+6,0,background,1.00,0.1772
+7,84,carrot,0.98,0.1048
+8,0,background,1.00,0.0174
+9,0,background,1.00,0.0213
+10,67,pie,1.00,0.0567
+11,84,carrot,0.99,0.0090
+12,94,pepper,0.99,0.0021
+13,0,background,0.68,0.0013
+14,67,pie,0.49,0.0019
+15,67,pie,1.00,0.0124
+16,84,carrot,1.00,0.0038
+17,84,carrot,0.86,0.0052
+18,67,pie,0.98,0.0016
+19,94,pepper,0.97,0.0047
+20,0,background,0.88,0.0016
+21,67,pie,1.00,0.0058
+22,0,background,1.00,0.0021
+23,84,carrot,0.53,0.0014
+24,67,pie,1.00,0.0387
+25,0,background,1.00,0.0026
+26,84,carrot,0.66,0.0140
+27,0,background,1.00,0.0008
+28,94,pepper,1.00,0.0065
+29,94,pepper,0.61,0.0016
+30,0,background,1.00,0.0047
+31,67,pie,0.99,0.0018
+32,84,carrot,0.87,0.0023
+33,84,carrot,0.98,0.0057
+34,94,pepper,0.95,0.0020
+35,0,background,1.00,0.0007
+36,84,carrot,0.70,0.0014
+37,67,pie,1.00,0.0021
+38,0,background,1.00,0.0005
+39,0,background,1.00,0.0008
+40,67,pie,1.00,0.0119
+41,67,pie,0.97,0.0014
+42,0,background,0.56,0.0010
+43,0,background,1.00,0.0030
+44,84,carrot,1.00,0.0013
+45,103,other ingredients,1.00,0.0008
+46,67,pie,0.92,0.0031
+47,94,pepper,0.86,0.0039
+48,84,carrot,0.65,0.0007
+49,94,pepper,0.91,0.0013
+50,67,pie,0.99,0.0033
+51,103,other ingredients,0.96,0.0013
+52,94,pepper,0.92,0.0075
+53,0,background,1.00,0.0005
+54,67,pie,0.67,0.0014
+55,84,carrot,1.00,0.0025
+56,103,other ingredients,1.00,0.0005
+57,84,carrot,1.00,0.0013
+58,0,background,0.61,0.0015
+59,94,pepper,0.94,0.0012
+60,67,pie,0.90,0.0003
+61,84,carrot,0.86,0.0005
+62,0,background,1.00,0.0010
+63,103,other ingredients,1.00,0.0005
+64,84,carrot,0.76,0.0051
+65,94,pepper,0.98,0.0040
+66,103,other ingredients,0.55,0.0030
+67,103,other ingredients,1.00,0.0004
+68,67,pie,0.87,0.0005

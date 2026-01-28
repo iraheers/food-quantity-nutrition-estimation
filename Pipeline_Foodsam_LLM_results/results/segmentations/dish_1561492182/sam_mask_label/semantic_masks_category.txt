@@ -1,0 +1,63 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,89,cilantro mint,0.80,0.1289
+1,66,rice,0.97,0.1109
+2,66,rice,0.45,0.2437
+3,0,background,0.99,0.3848
+4,0,background,1.00,0.1038
+5,0,background,1.00,0.0096
+6,0,background,1.00,0.0341
+7,0,background,1.00,0.0009
+8,0,background,1.00,0.0039
+9,77,rape,0.94,0.0074
+10,0,background,1.00,0.0041
+11,0,background,1.00,0.0024
+12,0,background,1.00,0.0567
+13,0,background,1.00,0.0040
+14,0,background,1.00,0.0019
+15,0,background,1.00,0.0007
+16,0,background,1.00,0.0002
+17,89,cilantro mint,0.95,0.0046
+18,0,background,1.00,0.0053
+19,89,cilantro mint,1.00,0.0098
+20,0,background,0.64,0.0010
+21,0,background,1.00,0.0041
+22,89,cilantro mint,0.91,0.0015
+23,0,background,1.00,0.0003
+24,89,cilantro mint,1.00,0.0047
+25,0,background,1.00,0.0010
+26,0,background,1.00,0.0079
+27,89,cilantro mint,1.00,0.0091
+28,0,background,1.00,0.0223
+29,89,cilantro mint,1.00,0.0090
+30,0,background,1.00,0.0098
+31,0,background,0.94,0.0055
+32,0,background,1.00,0.0002
+33,0,background,1.00,0.0022
+34,0,background,1.00,0.0089
+35,0,background,1.00,0.0030
+36,66,rice,0.64,0.0002
+37,0,background,1.00,0.0012
+38,66,rice,0.91,0.0009
+39,0,background,0.95,0.0005
+40,89,cilantro mint,1.00,0.0039
+41,0,background,1.00,0.0069
+42,0,background,1.00,0.0005
+43,89,cilantro mint,1.00,0.0017
+44,0,background,0.96,0.0122
+45,0,background,1.00,0.0072
+46,0,background,1.00,0.0027
+47,0,background,1.00,0.0047
+48,0,background,1.00,0.0189
+49,89,cilantro mint,0.92,0.0002
+50,89,cilantro mint,0.72,0.0010
+51,0,background,1.00,0.0033
+52,66,rice,1.00,0.0004
+53,89,cilantro mint,0.61,0.0011
+54,89,cilantro mint,0.99,0.0013
+55,0,background,1.00,0.0008
+56,0,background,0.90,0.0003
+57,66,rice,0.67,0.0003
+58,0,background,1.00,0.0008
+59,0,background,1.00,0.0018
+60,0,background,1.00,0.0037
+61,0,background,1.00,0.0020

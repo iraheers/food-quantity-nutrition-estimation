@@ -1,0 +1,74 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.1732
+1,0,background,1.00,0.1613
+2,61,pizza,0.83,0.0499
+3,0,background,1.00,0.0071
+4,82,cucumber,0.65,0.0058
+5,0,background,1.00,0.0095
+6,89,cilantro mint,0.79,0.0758
+7,0,background,1.00,0.0399
+8,0,background,1.00,0.0072
+9,67,pie,0.99,0.0260
+10,77,rape,0.79,0.0083
+11,0,background,1.00,0.0068
+12,67,pie,0.76,0.0032
+13,0,background,1.00,0.0029
+14,0,background,1.00,0.0892
+15,0,background,1.00,0.1815
+16,67,pie,0.99,0.0046
+17,0,background,1.00,0.0203
+18,89,cilantro mint,1.00,0.0005
+19,0,background,0.98,0.0070
+20,61,pizza,0.69,0.0006
+21,67,pie,0.77,0.0010
+22,0,background,1.00,0.0017
+23,0,background,1.00,0.0018
+24,67,pie,1.00,0.0010
+25,67,pie,0.99,0.0267
+26,67,pie,0.96,0.0260
+27,67,pie,0.92,0.0062
+28,0,background,1.00,0.0021
+29,0,background,1.00,0.1803
+30,82,cucumber,0.53,0.0072
+31,0,background,1.00,0.0082
+32,0,background,1.00,0.0010
+33,89,cilantro mint,0.80,0.0747
+34,89,cilantro mint,0.58,0.0008
+35,0,background,1.00,0.0019
+36,0,background,1.00,0.0107
+37,89,cilantro mint,1.00,0.0008
+38,89,cilantro mint,1.00,0.0014
+39,0,background,1.00,0.0108
+40,67,pie,0.96,0.0008
+41,67,pie,0.97,0.0194
+42,0,background,0.99,0.0006
+43,0,background,1.00,0.0009
+44,0,background,1.00,0.0003
+45,0,background,1.00,0.0027
+46,0,background,0.97,0.0017
+47,67,pie,1.00,0.0006
+48,67,pie,0.78,0.0014
+49,0,background,1.00,0.0013
+50,0,background,1.00,0.0053
+51,0,background,0.98,0.0071
+52,67,pie,0.81,0.0016
+53,67,pie,0.98,0.0337
+54,0,background,1.00,0.0012
+55,89,cilantro mint,0.83,0.0008
+56,0,background,1.00,0.0070
+57,0,background,0.75,0.0007
+58,0,background,1.00,0.0740
+59,0,background,0.82,0.0012
+60,0,background,1.00,0.0041
+61,0,background,1.00,0.0484
+62,89,cilantro mint,1.00,0.0007
+63,89,cilantro mint,1.00,0.0011
+64,89,cilantro mint,1.00,0.0007
+65,0,background,1.00,0.0028
+66,89,cilantro mint,1.00,0.0018
+67,0,background,1.00,0.0114
+68,89,cilantro mint,0.74,0.0013
+69,0,background,1.00,0.0088
+70,67,pie,0.81,0.0003
+71,0,background,0.64,0.0013
+72,67,pie,0.61,0.0044

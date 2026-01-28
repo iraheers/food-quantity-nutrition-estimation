@@ -1,0 +1,5 @@
+[2025-07-15 13:41:37,031] [semantic.py:269] [INFO] running sam!
+[2025-07-15 13:41:41,370] [semantic.py:287] [INFO] Processing '/home/sweedal/FoodSAM/results/Image.jpg'...
+[2025-07-15 13:45:28,754] [semantic.py:300] [INFO] sam done!
+
+[2025-07-15 13:45:28,754] [semantic.py:303] [INFO] running semantic seg model!

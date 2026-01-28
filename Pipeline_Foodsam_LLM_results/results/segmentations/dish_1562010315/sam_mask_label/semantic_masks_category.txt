@@ -1,0 +1,118 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,103,other ingredients,0.69,0.3814
+1,0,background,1.00,0.1567
+2,77,rape,0.78,0.0062
+3,0,background,1.00,0.0188
+4,0,background,1.00,0.0027
+5,77,rape,0.98,0.0074
+6,103,other ingredients,1.00,0.0055
+7,77,rape,0.86,0.0025
+8,0,background,1.00,0.0057
+9,103,other ingredients,0.52,0.0049
+10,77,rape,1.00,0.0012
+11,103,other ingredients,1.00,0.0037
+12,77,rape,0.67,0.0039
+13,0,background,1.00,0.0059
+14,0,background,1.00,0.0029
+15,0,background,1.00,0.0014
+16,103,other ingredients,1.00,0.0014
+17,0,background,1.00,0.0051
+18,0,background,1.00,0.0049
+19,103,other ingredients,1.00,0.0003
+20,103,other ingredients,0.58,0.0008
+21,103,other ingredients,1.00,0.0045
+22,77,rape,0.97,0.0048
+23,103,other ingredients,1.00,0.0016
+24,0,background,1.00,0.0007
+25,103,other ingredients,0.62,0.0031
+26,103,other ingredients,1.00,0.0018
+27,103,other ingredients,1.00,0.0009
+28,80,lettuce,0.77,0.0038
+29,103,other ingredients,0.93,0.0024
+30,77,rape,0.78,0.0038
+31,103,other ingredients,1.00,0.0042
+32,80,lettuce,0.80,0.0017
+33,103,other ingredients,0.96,0.0150
+34,0,background,1.00,0.0027
+35,103,other ingredients,1.00,0.0032
+36,103,other ingredients,0.69,0.0033
+37,80,lettuce,1.00,0.0018
+38,0,background,1.00,0.0008
+39,80,lettuce,1.00,0.0100
+40,0,background,1.00,0.0021
+41,77,rape,0.88,0.0035
+42,80,lettuce,1.00,0.0201
+43,103,other ingredients,1.00,0.0002
+44,103,other ingredients,1.00,0.0021
+45,103,other ingredients,1.00,0.0073
+46,103,other ingredients,1.00,0.0019
+47,103,other ingredients,0.97,0.0019
+48,80,lettuce,0.54,0.0092
+49,103,other ingredients,1.00,0.0011
+50,0,background,0.98,0.2102
+51,47,pork,0.90,0.0005
+52,0,background,1.00,0.0119
+53,77,rape,0.97,0.0048
+54,103,other ingredients,1.00,0.0010
+55,103,other ingredients,1.00,0.0042
+56,103,other ingredients,1.00,0.0005
+57,103,other ingredients,1.00,0.0031
+58,103,other ingredients,1.00,0.0019
+59,103,other ingredients,0.88,0.0005
+60,103,other ingredients,0.67,0.0022
+61,103,other ingredients,0.52,0.0009
+62,103,other ingredients,0.73,0.0008
+63,103,other ingredients,0.72,0.0021
+64,80,lettuce,1.00,0.0008
+65,80,lettuce,1.00,0.0100
+66,77,rape,0.51,0.0026
+67,0,background,1.00,0.0113
+68,103,other ingredients,1.00,0.0016
+69,77,rape,0.97,0.0021
+70,0,background,1.00,0.0046
+71,103,other ingredients,1.00,0.0005
+72,103,other ingredients,1.00,0.0038
+73,77,rape,0.89,0.0079
+74,103,other ingredients,1.00,0.0015
+75,0,background,1.00,0.0003
+76,103,other ingredients,0.66,0.0006
+77,103,other ingredients,0.51,0.0008
+78,103,other ingredients,1.00,0.0010
+79,103,other ingredients,1.00,0.0008
+80,0,background,0.86,0.0003
+81,103,other ingredients,1.00,0.0005
+82,103,other ingredients,0.98,0.0039
+83,103,other ingredients,0.99,0.0017
+84,77,rape,0.76,0.0085
+85,103,other ingredients,1.00,0.0077
+86,77,rape,0.68,0.0024
+87,103,other ingredients,0.98,0.0067
+88,103,other ingredients,0.95,0.0077
+89,77,rape,0.84,0.0047
+90,77,rape,0.66,0.0008
+91,0,background,1.00,0.0009
+92,0,background,1.00,0.0007
+93,77,rape,1.00,0.0010
+94,77,rape,0.98,0.0038
+95,103,other ingredients,1.00,0.0003
+96,77,rape,0.81,0.0011
+97,0,background,1.00,0.0008
+98,77,rape,0.73,0.0030
+99,103,other ingredients,0.91,0.0076
+100,0,background,1.00,0.0011
+101,103,other ingredients,1.00,0.0021
+102,77,rape,0.87,0.0037
+103,103,other ingredients,0.97,0.0023
+104,103,other ingredients,1.00,0.0012
+105,77,rape,0.71,0.0015
+106,77,rape,0.73,0.0035
+107,103,other ingredients,1.00,0.0008
+108,103,other ingredients,0.66,0.0023
+109,80,lettuce,1.00,0.0098
+110,80,lettuce,0.66,0.0062
+111,103,other ingredients,1.00,0.0010
+112,77,rape,0.85,0.0024
+113,0,background,1.00,0.0017
+114,103,other ingredients,1.00,0.0028
+115,103,other ingredients,0.80,0.0040
+116,103,other ingredients,1.00,0.0010

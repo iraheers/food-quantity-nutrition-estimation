@@ -1,0 +1,49 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,77,rape,1.00,0.0035
+1,0,background,0.99,0.4518
+2,0,background,1.00,0.1779
+3,0,background,1.00,0.1790
+4,77,rape,1.00,0.0212
+5,0,background,1.00,0.0009
+6,0,background,1.00,0.0030
+7,0,background,1.00,0.0094
+8,50,fried meat,0.90,0.0505
+9,47,pork,0.62,0.0290
+10,77,rape,1.00,0.0048
+11,50,fried meat,0.90,0.0506
+12,77,rape,1.00,0.0065
+13,77,rape,1.00,0.0024
+14,0,background,1.00,0.0018
+15,50,fried meat,0.71,0.0798
+16,0,background,1.00,0.0464
+17,0,background,1.00,0.0009
+18,0,background,1.00,0.0023
+19,0,background,1.00,0.0019
+20,0,background,1.00,0.0011
+21,0,background,1.00,0.0031
+22,77,rape,0.85,0.0010
+23,77,rape,1.00,0.0076
+24,77,rape,1.00,0.0127
+25,50,fried meat,0.71,0.0795
+26,77,rape,1.00,0.0007
+27,50,fried meat,0.67,0.0059
+28,0,background,1.00,0.0021
+29,0,background,1.00,0.0054
+30,0,background,1.00,0.0165
+31,77,rape,1.00,0.0062
+32,77,rape,1.00,0.0013
+33,50,fried meat,0.79,0.0063
+34,47,pork,0.87,0.0155
+35,77,rape,1.00,0.0107
+36,77,rape,1.00,0.0017
+37,77,rape,1.00,0.0012
+38,0,background,1.00,0.0011
+39,77,rape,1.00,0.0014
+40,77,rape,1.00,0.0218
+41,0,background,1.00,0.0005
+42,77,rape,0.99,0.0041
+43,77,rape,1.00,0.0149
+44,0,background,1.00,0.0017
+45,0,background,1.00,0.0007
+46,77,rape,0.99,0.0047
+47,0,background,1.00,0.0009

@@ -1,0 +1,6 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,25,apple,1.00,0.4960
+1,0,background,0.98,0.4878
+2,25,apple,1.00,0.0068
+3,25,apple,1.00,0.0006
+4,25,apple,1.00,0.0001
