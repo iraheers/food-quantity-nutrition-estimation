@@ -21,7 +21,7 @@ img_base64 = image_to_base64(resized_image_path)
 print("Base64 image size:", len(img_base64))
 
 # === API Variables ===
-API_KEY = "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"  # Replace with your valid key!
+API_KEY = ""  # Replace with your valid key!
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 PROMPT = "List the food items in this YOLO-detected image and estimate their nutrition."
 
