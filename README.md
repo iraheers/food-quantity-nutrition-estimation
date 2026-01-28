@@ -1,6 +1,8 @@
 # Automated Food Quantity & Nutrition Estimation  
 ### _FoodSAM + ZoeDepth + OpenCV + VLM-Based Nutrition Prediction_
 
+> **Note:** Early-stage experiments and preliminary work for this project are available in a separate repository [here](https://github.com/iraheers/project-learning).
+
 This project implements a **complete end-to-end pipeline** for estimating food quantity and predicting macro-nutrients directly from a single RGB image.  
 The system integrates **FoodSAM segmentation, ZoeDepth monocular depth estimation, OpenCV-based volume approximation, and Vision-Language Models (VLMs)** to output:
 
