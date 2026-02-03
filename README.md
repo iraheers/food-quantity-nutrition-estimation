@@ -83,25 +83,26 @@ Integrating segmentation + depth + volume reduced errors substantially.
 
 #### **Part A Model Comparison**
 
-| Model | Calories | Mass | Fat | Carb | Protein |
-|-------|----------|-------|------|--------|----------|
-| FoodQwen 2.5VL 7B | 148.56 | 112.03 | 10.87 | 17.87 | 15.14 |
-| FoodQwen 3B | 135.49 | 106.53 | 7.70 | 9.48 | 12.52 |
-| LLaVA | 196.77 | 210.40 | 15.00 | 19.49 | 19.23 |
-| LLaVA 1.6 | 185.19 | 130.83 | 21.23 | 39.12 | 23.65 |
-| LLaVA-One-Vision | 221.20 | 142.99 | 10.10 | 27.38 | 15.82 |
-| LLaMA-4 MAE | 128.44 | -- | 7.60 | 11.02 | 11.74 |
+| Model | Calories MAE | Mass MAE | Fat MAE | Carb MAE | Protein MAE |
+|------|--------------|----------|---------|----------|-------------|
 | **FoodLMM (Baseline)** | **67.3** | **39.7** | **5.4** | **5.9** | **4.1** |
+| LLaVA | 223.90 | 153.44 | 10.51 | 26.69 | 14.51 |
+| LLaVA-1.6 | 216.57 | 135.33 | 11.72 | 25.73 | 19.81 |
+| LLaVA-OV | 171.03 | 114.92 | 9.08 | 22.75 | 15.17 |
+| LLaMA-4 | 296.45 | 173.90 | 16.56 | 20.52 | 19.05 |
+| FoodQWen-2B | 585.98 | 295.12 | 13.44 | 11.48 | 26.29 |
+| FoodQWen-3B | 228.82 | 180.54 | 17.91 | 23.28 | 22.59 |
+| Qwen2.5-VL-7B | 157.07 | 153.86 | 14.38 | 21.12 | 18.46 |
+| Nutrition-Label-Detector | 412.18 | 441.92 | 50.15 | 552.28 | 38.66 |
 
 #### **Part B – Proposed Pipeline vs Baselines**
 
-| Metric | Proposed Pipeline | FoodLMM | LLaMA-4 |
-|---------|----------------|-----------|-----------|
-| Calories | **78.15** | **67.3** | 128.44 |
-| Mass | **324.86** | **39.7** | -- |
-| Carbs | **14.92** | **5.9** | 11.02 |
-| Protein | **5.98** | **4.1** | 11.74 |
-| Fat | **6.55** | **5.4** | 7.60 |
+| Model | Calories MAE | Mass MAE | Fat MAE | Carb MAE | Protein MAE |
+|------|--------------|----------|---------|----------|-------------|
+| **FoodLMM (Baseline)** | 67.3 | 39.7 | 5.4 | 5.9 | 4.1 |
+| LLaVA-OV | 171.03 | 114.92 | 9.08 | 22.75 | 15.17 |
+| Qwen2.5-VL-7B | 157.07 | 153.86 | 14.38 | 21.12 | 18.46 |
+| **Ours (Metric Pipeline)** | **78.15** | **324.86** | **6.55** | **14.92** | **5.98** |
  
 Even though FoodLMM baseline performs extremely well, our geometry-aware pipeline **outperforms VLM-only predictions** and demonstrates the impact of combining segmentation + depth + geometry + structured prompting.
 
